@@ -1,5 +1,3 @@
-# onboarding
-
 # Onboarding Process for Venera AI
 
 Welcome to Venera AI! This README provides a step-by-step guide for setting up your work environment, tools, and access. Please complete each of the following tasks to get started.
