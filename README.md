@@ -7,7 +7,7 @@ Welcome to Venera AI! This README provides a step-by-step guide for setting up y
 ## Step-by-Step Onboarding
 
 ### 1. Request an `viai.io` Email
-- Request a viai.io email (minh@viai / admin@viai.io) to set up your company email.
+- Request a viai.io email (minh@viai.io / admin@viai.io) to set up your company email.
 - Once you receive the email, reset your password to ensure your account security.
 
 ### 2. Request Access to Slack Channels
